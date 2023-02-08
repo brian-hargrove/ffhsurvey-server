@@ -1,4 +1,4 @@
 module.exports = {
   // userController: require("./usercontroller"),
-  surveyController: require("./surverycontroller"),
+  surveyController: require("./survery23controller"),
 };
